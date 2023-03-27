@@ -10,7 +10,7 @@ $(document).ready(function (){
     var event1pm = $('#1pm')
     var event2pm = $('#2pm')
     var event3pm = $('#3pm')
-    var event4pm = $('$4pm')
+    var event4pm = $('#4pm')
     var event5pm = $('#5pm')
 
     // will display the clock functioning to its current time
@@ -46,15 +46,15 @@ $(document).ready(function (){
     })
 
     // saves an array that has all classes of each element
-    var hour9Id = parseFloat(($('#hour-9').attr('class').split(' ')).pop());
+    var hour9Id = parseFloat(($('#hour-09').attr('class').split(' ')).pop());
     var hour10Id = parseFloat(($('#hour-10').attr('class').split(' ')).pop());
     var hour11Id = parseFloat(($('#hour-11').attr('class').split(' ')).pop());
     var hour12Id = parseFloat(($('#hour-12').attr('class').split(' ')).pop());
-    var hour13Id = parseFloat(($('#hour-1').attr('class').split(' ')).pop());
-    var hour14Id = parseFloat(($('#hour-2').attr('class').split(' ')).pop());
-    var hour15Id = parseFloat(($('#hour-3').attr('class').split(' ')).pop());
-    var hour16Id = parseFloat(($('#hour-4').attr('class').split(' ')).pop());
-    var hour17Id = parseFloat(($('#hour-5').attr('class').split(' ')).pop());
+    var hour13Id = parseFloat(($('#hour-13').attr('class').split(' ')).pop());
+    var hour14Id = parseFloat(($('#hour-14').attr('class').split(' ')).pop());
+    var hour15Id = parseFloat(($('#hour-15').attr('class').split(' ')).pop());
+    var hour16Id = parseFloat(($('#hour-16').attr('class').split(' ')).pop());
+    var hour17Id = parseFloat(($('#hour-17').attr('class').split(' ')).pop());
 
     // function is to save the hour class in an array as numerial form
     var hourClassArr = [hour9Id, hour10Id, hour11Id, hour12Id, hour13Id, hour14Id, hour15Id, hour16Id, hour17Id]
