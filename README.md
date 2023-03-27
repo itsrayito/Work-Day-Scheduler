@@ -26,6 +26,11 @@ https://day.js.org/en/
 
 - Lectures on Third-Party API's and JavaScript provided by RICE University Coding Bootcamp
 
+- stack overflow 
+ https://stackoverflow.com/questions/19159395 jquery-uncaught-error-syntax-error-unrecognized-expression<br>
+Title of Blog: 
+[jQuery: Uncaught Error:Syntax error, unrecognized expression](FOR ASSISTANCE IN ERRORS ON MY PROJECT)
+
 ### GitHub Solution & Live Website Links
 - GitHub Solution URL:
 https://github.com/itsrayito/Work-Day-Scheduler
