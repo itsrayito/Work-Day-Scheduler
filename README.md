@@ -34,4 +34,4 @@ Title of Blog:
 ### GitHub Solution & Live Website Links
 - GitHub Solution URL:
 https://github.com/itsrayito/Work-Day-Scheduler
-- Live Website URL:
+- Live Website URL: https://itsrayito.github.io/Work-Day-Scheduler/
